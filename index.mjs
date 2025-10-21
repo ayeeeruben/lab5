@@ -24,6 +24,11 @@ app.get('/planet', (req, res) => {
    res.render('planetInfo.ejs', {planetInfo, planet_name});
 });
 
+app.get('/nasaPod', (req, res) => {
+//    console.log(planetInfo);
+   res.render('nasaPod.ejs');
+});
+
 
 // //mercury route
 // app.get('/mercury', (req, res) => {
