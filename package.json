@@ -15,5 +15,14 @@
     "express": "^5.1.0",
     "node-fetch": "^3.3.2",
     "npm-solarsystem": "^1.1.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeeeruben/lab5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayeeeruben/lab5/issues"
+  },
+  "homepage": "https://github.com/ayeeeruben/lab5#readme"
 }
